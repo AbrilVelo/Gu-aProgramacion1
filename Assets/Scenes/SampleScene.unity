@@ -169,13 +169,14 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 80107791}
+  - component: {fileID: 80107792}
   m_Layer: 0
   m_Name: Ejercicio12
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &80107791
 Transform:
   m_ObjectHideFlags: 0
@@ -190,6 +191,21 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 13
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &80107792
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 80107790}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fcb3ebe9659508445aef1e8e5439ecdc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  dado1: 2
+  dado2: 3
+  dado3: 4
 --- !u!1 &170076733
 GameObject:
   m_ObjectHideFlags: 0
@@ -483,13 +499,14 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1077606573}
+  - component: {fileID: 1077606574}
   m_Layer: 0
   m_Name: Ejercicio13
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &1077606573
 Transform:
   m_ObjectHideFlags: 0
@@ -504,6 +521,19 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 14
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1077606574
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1077606572}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e2a193992e0750a499fd7728a96f4f75, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cantidadhoras: 41
 --- !u!1 &1303149486
 GameObject:
   m_ObjectHideFlags: 0
@@ -734,6 +764,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2055105243}
+  - component: {fileID: 2055105244}
   m_Layer: 0
   m_Name: Ejercicio15
   m_TagString: Untagged
@@ -755,6 +786,19 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 16
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2055105244
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2055105242}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 50ff407baa40e2c439c0a4bf8d7fb8a5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  num: 23
 --- !u!1 &2071529464
 GameObject:
   m_ObjectHideFlags: 0
@@ -764,13 +808,14 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2071529465}
+  - component: {fileID: 2071529466}
   m_Layer: 0
   m_Name: Ejercicio14
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &2071529465
 Transform:
   m_ObjectHideFlags: 0
@@ -785,6 +830,21 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 15
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2071529466
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2071529464}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ff30ab85b8ebd844689f19cc9e5d66b7, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  num1: 2
+  num2: 4
+  operador: d
 --- !u!1 &2080414384
 GameObject:
   m_ObjectHideFlags: 0
